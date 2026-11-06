@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1320" height="720" viewBox="0 0 1320 720" role="img" aria-labelledby="title desc">
+<title id="title">Supply Chain Control Tower — report overview</title><desc id="desc">Four-page Power BI report: Home, Sales Analysis, Inventory Analysis, and Movement Analysis. Conceptual project cover, not a dashboard screenshot.</desc>
+<rect width="1320" height="720" fill="#071426"/>
+<g font-family="Segoe UI,Arial,sans-serif"><text x="65" y="72" fill="#91b8df" font-size="19" letter-spacing="4">SUPPLY CHAIN INTELLIGENCE</text>
+<text x="65" y="168" fill="#f5f8ff" font-size="60" font-weight="600">Supply Chain</text><text x="65" y="240" fill="#8eabc9" font-size="60">Control Tower</text>
+<text x="65" y="292" fill="#a4bcd5" font-size="23">Customer demand. Stock availability. Product movement.</text>
+<path d="M260 404H1060" stroke="#38516a" stroke-width="2" fill="none"/>
+<g><rect x="65" y="355" width="370" height="230" rx="15" fill="#10273f"/><rect x="475" y="355" width="370" height="230" rx="15" fill="#0e2b2b"/><rect x="885" y="355" width="370" height="230" rx="15" fill="#211b36"/></g>
+<text x="95" y="402" fill="#83c5ff" font-size="17" letter-spacing="3">01 / DEMAND</text><text x="95" y="451" fill="#f5f8ff" font-size="29">Sales Analysis</text><text x="95" y="497" fill="#a4bcd5" font-size="21">Sales &amp; units sold</text><text x="95" y="533" fill="#a4bcd5" font-size="21">Products, categories &amp; locations</text>
+<text x="505" y="402" fill="#7cd794" font-size="17" letter-spacing="3">02 / STOCK</text><text x="505" y="451" fill="#f5f8ff" font-size="29">Inventory Analysis</text><text x="505" y="497" fill="#a4bcd5" font-size="21">Stock on hand &amp; trends</text><text x="505" y="533" fill="#a4bcd5" font-size="21">Stockout indicators</text>
+<text x="915" y="402" fill="#daa0e4" font-size="17" letter-spacing="3">03 / DISTRIBUTION</text><text x="915" y="451" fill="#f5f8ff" font-size="29">Movement Analysis</text><text x="915" y="497" fill="#a4bcd5" font-size="21">Quantity &amp; products moved</text><text x="915" y="533" fill="#a4bcd5" font-size="21">Trends &amp; source locations</text>
+<text x="65" y="655" fill="#819dbb" font-size="19">POWER BI · FOUR REPORT PAGES · INTERACTIVE FILTERS</text><text x="1255" y="688" text-anchor="end" fill="#819dbb" font-size="15">PROJECT OVERVIEW</text></g></svg>
